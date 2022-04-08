@@ -1,8 +1,8 @@
 # Bounties
 
--   [**All Bounties**](https://github.com/near/bounties/issues)
+-   [**All Bounties**](https://github.com/aurora-is-near/bounties/issues)
 
-This repository contains tasks that helps [Aurora](https://aurora.dev/) and its ecosystem to grow and improve. The [Issues tab](https://github.com/near/bounties/issues) will list each of these and their labels will help you search for what you want.
+This repository contains tasks that helps [Aurora](https://aurora.dev/) and its ecosystem to grow and improve. The [Issues tab](https://github.com/aurora-is-near/bounties/issues) will list each of these and their labels will help you search for what you want.
 
 ## Overview
 
@@ -14,7 +14,7 @@ The scope of the bounties goes beyond the tools and infrastructure built by Auro
 
 ## How to get involved
 
-Check if there is any task that is suited for you on the [Issues tab](https://github.com/near/bounties/issues).
+Check if there is any task that is suited for you on the [Issues tab](https://github.com/aurora-is-near/bounties/issues).
 
 Each bounty has an owner responsible for assigning the user working on the task, track progress, and sending the reward once completed.
 
